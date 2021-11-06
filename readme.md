@@ -4,3 +4,4 @@
 
 #Shanghai
 Shanghai is beautiful.
+Shanghai is rich.
