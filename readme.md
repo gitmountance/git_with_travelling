@@ -10,4 +10,3 @@ Beijing has ChangCheng.
 
 #Shanghai
 Shanghai is beautiful.
-Shanghai is rich.
